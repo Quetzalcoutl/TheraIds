@@ -2,24 +2,24 @@
     "tokens": [
         {
             "id": 0,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 0"
+            "description": "TheraId",
+            "external_url": "https://www.thera.Foundation",
+            "image": "https://gateway.pinata.cloud/ipfs/QmT54WupbSZsVsyPTPo1jCPyqvL5Zem38JvsUKhUphZ13y/TheraId%20-%20Derek%20Santos%20Sidi.jpg",
+            "name": "Derek Santos Sidi 24189212"
         },
         {
             "id": 1,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "description": "TheraId",
+            "external_url": "https://www.thera.Foundation",
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 1"
+            "name": "Breno Lago 53601245"
         },
         {
             "id": 2,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "description": "TheraId",
+            "external_url": "https://www.thera.Foundation",
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 2"
+            "name": "Leopoldina Santos 28788878"
         }
     ]
 }
